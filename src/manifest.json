@@ -1,0 +1,11 @@
+{
+	"manifest_version": 1,
+	"id": "plugin",
+	"app_min_version": "1.6",
+	"version": "1.0.0",
+	"name": "#test @test",
+	"description": "test of #asdf @test",
+	"author": "a",
+	"homepage_url": "a",
+	"repository_url": "a"
+}
